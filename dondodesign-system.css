@@ -1,0 +1,2835 @@
+.dondodesign-system-container {
+  width: 100%;
+  height: var(--dl-size-size-xxlarge);
+  display: flex;
+  overflow: hidden;
+  background: Black (Gray);
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-image: linear-gradient(0deg, rgb(19, 5, 0) 1.00%,rgb(0, 0, 0) 27.00%);
+}
+.dondodesign-system-nav {
+  width: 15%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: inherit;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dondodesign-system-frame361 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondodesign-system-navlink {
+  display: contents;
+}
+.dondodesign-system-container01 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-decoration: none;
+}
+.dondodesign-system-lottie-node {
+  width: 75%;
+  height: 78px;
+}
+.dondodesign-system-text {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 30%;
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 0px;
+  text-decoration: none;
+}
+.dondodesign-system-text:hover {
+  text-decoration: underline;
+}
+.dondodesign-system-text:active {
+  text-decoration: underline;
+}
+.dondodesign-system-text01 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 58px;
+  font-style: Regular;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.dondodesign-system-text02 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  display: none;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondodesign-system-dondo2 {
+  width: 50%;
+  height: auto;
+  display: none;
+}
+.dondodesign-system-text03 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  padding-top: 7%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  letter-spacing: 1px;
+  padding-bottom: 7%;
+  text-decoration: none;
+}
+.dondodesign-system-container02 {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondodesign-system-text04 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  margin-bottom: 5%;
+  padding-bottom: 10%;
+  background-color: rgb(12, 3, 0);
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-text08 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: none;
+}
+.dondodesign-system-text09 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondodesign-system-text10 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondodesign-system-text11 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondodesign-system-container03 {
+  width: 100%;
+  display: none;
+  align-items: center;
+  flex-direction: column;
+}
+.dondodesign-system-rectangle9 {
+  width: 100%;
+  height: 64px;
+  opacity: 0.00;
+}
+.dondodesign-system-container04 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondodesign-system-container04:hover {
+  position: relative;
+}
+.dondodesign-system-rauw {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-rauw1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+  background-color: #150501;
+}
+.dondodesign-system-rauw1:hover {
+  border: none;
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+.dondodesign-system-rauw1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-rauw2 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-rauw2:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-rauw2:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-bunker {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-bunker:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-bunker:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-casualmente {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-casualmente:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: inset;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-casualmente:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-subject {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-subject:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-subject:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-dream {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-dream:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-dream:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-voyage {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-voyage:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-voyage:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-voyage1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-voyage1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-voyage1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-rauw3 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-linkdn {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-linkdn:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-linkdn:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-bandcamp {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-bandcamp:hover {
+  width: 100%;
+  height: 100%;
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-bandcamp:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-twitter {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-twitter:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-twitter:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-twitter1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  margin-top: 10%;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 10%;
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: 5%;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-twitter1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondodesign-system-twitter1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondodesign-system-text12 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.dondodesign-system-text12:hover {
+  text-decoration: underline none;
+}
+.dondodesign-system-rectangle91 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondodesign-system-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle71 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle72 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle73 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle74 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle75 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-rectangle76 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-description {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-y: scroll;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dondodesign-system-rectangle92 {
+  width: 100%;
+  height: 88px;
+  opacity: 0.00;
+}
+.dondodesign-system-text13 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondodesign-system-text14 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 64px;
+  font-style: Regular;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.dondodesign-system-dondo21 {
+  width: 50%;
+  height: auto;
+  margin-bottom: 5%;
+}
+.dondodesign-system-container05 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondodesign-system-text15 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  margin-bottom: 5%;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.dondodesign-system-container06 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondodesign-system-text16 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: 100%;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  border-radius: var(--dl-radius-radius-radius2);
+  margin-bottom: 5%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  text-decoration: none;
+  background-color: rgb(12, 3, 0);
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+.dondodesign-system-text24 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: none;
+}
+.dondodesign-system-text24:hover {
+  text-decoration: underline;
+}
+.dondodesign-system-container07 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondodesign-system-text25 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+.dondodesign-system-text25:hover {
+  text-decoration: underline;
+}
+.dondodesign-system-text26 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  background-color: #150501;
+}
+.dondodesign-system-text26:hover {
+  text-decoration: underline;
+}
+.dondodesign-system-text27 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+.dondodesign-system-text27:hover {
+  text-decoration: underline;
+}
+.dondodesign-system-rectangle93 {
+  width: 100%;
+  height: 64px;
+  opacity: 0.00;
+}
+.dondodesign-system-rectangle94 {
+  width: 100%;
+  height: 306px;
+  opacity: 0.00;
+}
+.dondodesign-system-frame373 {
+  width: 100%;
+  height: 32px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dondodesign-system-rectangle77 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-text28 {
+  top: 9px;
+  color: rgb(224, 66, 23);
+  right: var(--dl-space-space-twounits);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondodesign-system-text28:hover {
+  text-decoration: underline none;
+}
+.dondodesign-system-rectangle95 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondodesign-system-rectangle78 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondodesign-system-dondo {
+  width: 55%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dondodesign-system-text29 {
+  top: -22px;
+  left: 55px;
+  color: rgba(224, 66, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondodesign-system-rectangle10 {
+  width: 100%;
+  height: 144px;
+  opacity: 0.00;
+}
+.dondodesign-system-container08 {
+  flex: 0 0 auto;
+  width: 85%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: flex-end;
+  align-items: flex-start;
+  margin-right: 10%;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.dondodesign-system-container09 {
+  flex: 0 0 auto;
+  width: 47.5%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondodesign-system-container10 {
+  width: 100%;
+  height: var(--dl-size-size-xxlarge);
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container10:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-dfsdsf1 {
+  width: 50%;
+  height: auto;
+}
+.dondodesign-system-text31 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container11 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #FCFBF0;
+}
+.dondodesign-system-container11:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-musical-instruments1 {
+  width: 90%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text32 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container12 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container12:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-group31231 {
+  width: 70%;
+  height: auto;
+  align-self: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text33 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container13 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container13:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container14 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf101 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf2 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container15 {
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf102 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf201 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text34 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container16 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container16:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container17 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf103 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf104 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf202 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text35 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container18 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container18:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container19 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf105 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf203 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf106 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container20 {
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf107 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf204 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf108 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf205 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf109 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text36 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container21 {
+  flex: 0 0 auto;
+  width: 47.5%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-container22 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #FCFBF0;
+}
+.dondodesign-system-container22:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 5;
+  border-top-right-radius: 5;
+  border-bottom-left-radius: 5;
+  border-bottom-right-radius: 5;
+}
+.dondodesign-system-container23 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-sdfsdf206 {
+  width: 80%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text39 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-text41 {
+  font-size: 12px;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+.dondodesign-system-container24 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f0f6f0;
+}
+.dondodesign-system-lottie-node1 {
+  width: 100%;
+  height: 50%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text42 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container25 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #FCFBF0;
+}
+.dondodesign-system-container25:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 5;
+  border-top-right-radius: 5;
+  border-bottom-left-radius: 5;
+  border-bottom-right-radius: 5;
+}
+.dondodesign-system-sdfsdf207 {
+  width: 70%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text43 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-text44 {
+  color: rgb(224, 66, 23);
+  width: 90%;
+  height: auto;
+  font-size: 14px;
+  align-self: flex-end;
+  font-style: normal;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 30%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 30%;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.dondodesign-system-text47 {
+  color: rgb(224, 66, 23);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container26 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container26:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container27 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf110 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf208 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container28 {
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf111 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf209 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text48 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container29 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container29:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container30 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-sdfsdf210 {
+  width: 80%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf211 {
+  width: 80%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf212 {
+  width: 50%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf112 {
+  width: 50%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf213 {
+  width: 50%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf214 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container31 {
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-container32 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondodesign-system-container33 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf113 {
+  width: +60%;
+  height: auto;
+  align-self: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf114 {
+  width: 60%;
+  height: auto;
+  align-self: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container34 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf115 {
+  width: 45%;
+  height: auto;
+  align-self: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf116 {
+  width: 75%;
+  height: auto;
+  align-self: center;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf117 {
+  width: 50%;
+  height: auto;
+  align-self: flex-start;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf215 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf216 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf217 {
+  width: 90%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf218 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf219 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf220 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text49 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-container35 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  flex-direction: row;
+  padding-bottom: 10%;
+  justify-content: center;
+  background-color: #fcfbf0;
+}
+.dondodesign-system-container35:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondodesign-system-container36 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf118 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf221 {
+  width: 60%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf222 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-container37 {
+  width: 50%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 10%;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondodesign-system-dfsdsf119 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-sdfsdf223 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf120 {
+  width: 100%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-dfsdsf121 {
+  width: 95%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+.dondodesign-system-text52 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondodesign-system-text53 {
+  top: -14px;
+  left: 1px;
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  position: absolute;
+  font-size: 58px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondodesign-system-text54 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: right;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.dondodesign-system-text54:hover {
+  text-decoration: underline none;
+}
+.dondodesign-system-text55 {
+  top: 0px;
+  color: rgb(242, 109, 31);
+  right: 0px;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  font-size: 54px;
+  align-self: flex-end;
+  font-style: Black;
+  margin-top: -14px;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.dondodesign-system-rectangle96 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondodesign-system-link {
+  display: contents;
+}
+.dondodesign-system-exclude {
+  width: 160px;
+  height: 152px;
+  display: none;
+  position: fixed;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.dondodesign-system-lottie-node2 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 7%;
+  position: fixed;
+  mix-blend-mode: color-dodge;
+  pointer-events: none;
+}
+.dondodesign-system-lottie-node3 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 30%;
+  position: fixed;
+  align-content: flex-end;
+  animation-name: none;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+@media(max-width: 991px) {
+  .dondodesign-system-nav {
+    width: 45%;
+  }
+  .dondodesign-system-frame361 {
+    width: 100%;
+  }
+  .dondodesign-system-lottie-node {
+    width: 162px;
+    margin-right: 0px;
+  }
+  .dondodesign-system-text {
+    margin-bottom: 10%;
+  }
+  .dondodesign-system-text01 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    font-size: 58px;
+    margin-top: 10%;
+    font-family: Pinyon Script;
+    font-weight: 400;
+    line-height: 75%;
+    margin-bottom: 0px;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .dondodesign-system-text02 {
+    display: flex;
+    align-self: center;
+    margin-bottom: 10%;
+  }
+  .dondodesign-system-dondo2 {
+    width: 75%;
+    display: flex;
+    align-self: center;
+  }
+  .dondodesign-system-text03 {
+    display: flex;
+  }
+  .dondodesign-system-text04 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-direction: column;
+    padding-bottom: 10%;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondodesign-system-text05 {
+    text-decoration: inherit;
+  }
+  .dondodesign-system-text06 {
+    text-decoration: none;
+  }
+  .dondodesign-system-text07 {
+    text-decoration: none;
+  }
+  .dondodesign-system-text08 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text09 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text10 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text11 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-container03 {
+    display: flex;
+  }
+  .dondodesign-system-rectangle9 {
+    height: 32px;
+  }
+  .dondodesign-system-container04 {
+    margin-top: 0px;
+  }
+  .dondodesign-system-rauw3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-twitter1 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text12 {
+    text-align: left;
+  }
+  .dondodesign-system-description {
+    display: none;
+  }
+  .dondodesign-system-text14 {
+    color: rgb(242, 109, 31);
+    font-size: 58px;
+    font-family: Pinyon Script;
+    font-weight: 400;
+    line-height: 75%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text16 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    text-decoration: none;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondodesign-system-text24 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text25 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text26 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text27 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondodesign-system-rectangle93 {
+    height: var(--dl-size-size-xsmall);
+  }
+  .dondodesign-system-dondo {
+    width: 55%;
+  }
+  .dondodesign-system-container08 {
+    width: 90%;
+    align-self: flex-start;
+    margin-left: 5%;
+    margin-right: 0%;
+    flex-direction: column;
+  }
+  .dondodesign-system-container09 {
+    width: 100%;
+  }
+  .dondodesign-system-container10 {
+    height: var(--dl-size-size-large);
+  }
+  .dondodesign-system-text31 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container11 {
+    height: auto;
+  }
+  .dondodesign-system-text32 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container12 {
+    height: auto;
+  }
+  .dondodesign-system-text33 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text34 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text35 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text36 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text37 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text38 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container21 {
+    width: 100%;
+  }
+  .dondodesign-system-container22 {
+    width: 100%;
+    height: auto;
+  }
+  .dondodesign-system-container23 {
+    height: auto;
+  }
+  .dondodesign-system-text39 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text40 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container24 {
+    width: 100%;
+  }
+  .dondodesign-system-lottie-node1 {
+    height: auto;
+  }
+  .dondodesign-system-text42 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container25 {
+    width: 100%;
+    height: 100%;
+  }
+  .dondodesign-system-text43 {
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text44 {
+    width: 100%;
+    font-size: 16px;
+  }
+  .dondodesign-system-text45 {
+    font-size: 16px;
+  }
+  .dondodesign-system-text46 {
+    font-size: 16px;
+  }
+  .dondodesign-system-text47 {
+    width: 100%;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container26 {
+    width: 100%;
+    height: auto;
+  }
+  .dondodesign-system-text48 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container29 {
+    width: 100%;
+  }
+  .dondodesign-system-text49 {
+    width: 100%;
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text50 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text51 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-container35 {
+    width: 100%;
+  }
+  .dondodesign-system-text52 {
+    width: 100%;
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondodesign-system-text55 {
+    font-size: 64px;
+  }
+  .dondodesign-system-exclude {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .dondodesign-system-container {
+    overflow-y: scroll;
+    flex-direction: column;
+  }
+  .dondodesign-system-nav {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .dondodesign-system-frame361 {
+    width: auto;
+  }
+  .dondodesign-system-lottie-node {
+    width: 162px;
+  }
+  .dondodesign-system-text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .dondodesign-system-dondo2 {
+    width: 50%;
+  }
+  .dondodesign-system-text03 {
+    text-align: left;
+  }
+  .dondodesign-system-text04 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondodesign-system-text05 {
+    text-decoration: underline;
+  }
+  .dondodesign-system-text06 {
+    text-decoration: none;
+  }
+  .dondodesign-system-text07 {
+    text-decoration: none;
+  }
+  .dondodesign-system-text08 {
+    color: rgb(224, 66, 23);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .dondodesign-system-text09 {
+    color: rgb(224, 66, 23);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  .dondodesign-system-text10 {
+    color: rgb(224, 66, 23);
+    border-color: rgb(242, 109, 31);
+    border-width: 1px;
+    background-color: #271103;
+  }
+  .dondodesign-system-text11 {
+    color: rgb(224, 66, 23);
+  }
+  .dondodesign-system-rauw {
+    font-size: 32px;
+  }
+  .dondodesign-system-rauw1 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-rauw2 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-bunker {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-casualmente {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-subject {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-dream {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-voyage {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-voyage1 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-rauw3 {
+    font-size: 32px;
+  }
+  .dondodesign-system-linkdn {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-bandcamp {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-twitter {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondodesign-system-twitter1 {
+    color: rgb(242, 109, 31);
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5%;
+    margin-bottom: 10%;
+    padding-bottom: 10%;
+    text-decoration: none;
+  }
+  .dondodesign-system-text24 {
+    color: rgb(224, 66, 23);
+  }
+  .dondodesign-system-text25 {
+    color: rgb(224, 66, 23);
+  }
+  .dondodesign-system-text26 {
+    color: rgb(224, 66, 23);
+  }
+  .dondodesign-system-text27 {
+    color: rgb(224, 66, 23);
+  }
+  .dondodesign-system-rectangle93 {
+    height: var(--dl-size-size-xsmall);
+  }
+  .dondodesign-system-dondo {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .dondodesign-system-container08 {
+    width: 90%;
+    align-self: flex-start;
+    margin-left: 5%;
+    margin-right: 0%;
+  }
+  .dondodesign-system-container10 {
+    height: var(--dl-size-size-large);
+  }
+  .dondodesign-system-text31 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container11 {
+    height: auto;
+  }
+  .dondodesign-system-text32 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container12 {
+    height: auto;
+  }
+  .dondodesign-system-text33 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text34 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text35 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text36 {
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container21 {
+    height: auto;
+  }
+  .dondodesign-system-container22 {
+    width: 100%;
+    height: auto;
+  }
+  .dondodesign-system-text39 {
+    width: 100%;
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container24 {
+    width: 100%;
+  }
+  .dondodesign-system-text42 {
+    width: 100%;
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container25 {
+    width: 100%;
+    height: auto;
+  }
+  .dondodesign-system-text43 {
+    width: 100%;
+    padding: 0px;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text44 {
+    width: 100%;
+  }
+  .dondodesign-system-text47 {
+    width: 100%;
+    padding: 0px;
+  }
+  .dondodesign-system-container26 {
+    width: 100%;
+    height: auto;
+  }
+  .dondodesign-system-text48 {
+    width: 100%;
+    padding: 0px;
+    align-self: flex-start;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-container29 {
+    width: 100%;
+  }
+  .dondodesign-system-text49 {
+    padding: 0px;
+  }
+  .dondodesign-system-container35 {
+    width: 100%;
+  }
+  .dondodesign-system-text52 {
+    padding: 0px;
+    margin-bottom: 5%;
+  }
+  .dondodesign-system-text53 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    font-size: 58px;
+    font-family: Inter;
+    font-weight: 900;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .dondodesign-system-text54 {
+    text-align: right;
+  }
+  .dondodesign-system-text55 {
+    display: none;
+  }
+  .dondodesign-system-rectangle96 {
+    height: var(--dl-size-size-xlarge);
+  }
+  .dondodesign-system-exclude {
+    right: 37px;
+    width: auto;
+    bottom: 51px;
+    height: 10%;
+    display: flex;
+    position: absolute;
+  }
+}

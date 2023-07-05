@@ -1,0 +1,1619 @@
+.the-trimba-container {
+  width: 100%;
+  height: var(--dl-size-size-xxlarge);
+  display: flex;
+  overflow: hidden;
+  min-height: 100vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-image: linear-gradient(0deg, rgb(19, 5, 0) 1.00%,rgb(0, 0, 0) 27.00%);
+}
+.the-trimba-nav {
+  width: 15%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: inherit;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.the-trimba-frame361 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.the-trimba-navlink {
+  display: contents;
+}
+.the-trimba-container1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-decoration: none;
+}
+.the-trimba-lottie-node {
+  width: 75%;
+  height: 78px;
+}
+.the-trimba-text {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 30%;
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 0px;
+  text-decoration: none;
+}
+.the-trimba-text:hover {
+  text-decoration: underline;
+}
+.the-trimba-text:active {
+  text-decoration: underline;
+}
+.the-trimba-text01 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 58px;
+  font-style: Regular;
+  margin-top: 0px;
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: 10%;
+  text-decoration: none;
+}
+.the-trimba-text02 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  display: none;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-image548 {
+  width: 75%;
+  height: auto;
+  display: none;
+}
+.the-trimba-text03 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  padding-top: 7%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  letter-spacing: 1px;
+  padding-bottom: 7%;
+  text-decoration: none;
+}
+.the-trimba-twitter {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  display: none;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  margin-bottom: 10%;
+  padding-bottom: 1%;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-text04 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  display: none;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 30%;
+  padding-bottom: 10%;
+  background-color: rgb(21, 5, 1);
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-text05 {
+  text-decoration: none;
+}
+.the-trimba-text06 {
+  text-decoration: none;
+}
+.the-trimba-text07 {
+  text-decoration: none;
+}
+.the-trimba-text09 {
+  text-decoration: none;
+}
+.the-trimba-text10 {
+  text-decoration: none;
+}
+.the-trimba-text11 {
+  text-decoration: none;
+}
+.the-trimba-text13 {
+  text-decoration: none;
+}
+.the-trimba-text14 {
+  text-decoration: none;
+}
+.the-trimba-text15 {
+  text-decoration: none;
+}
+.the-trimba-twitter1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  display: none;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  margin-bottom: 10%;
+  padding-bottom: 1%;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-container2 {
+  width: 100%;
+  display: none;
+  align-items: center;
+  flex-direction: column;
+}
+.the-trimba-rectangle9 {
+  width: 100%;
+  height: 64px;
+  opacity: 0.00;
+}
+.the-trimba-container3 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.the-trimba-container3:hover {
+  position: relative;
+}
+.the-trimba-rauw {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-rauw1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-rauw1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-rauw1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-rauw2 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-rauw2:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-rauw2:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-bunker {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-bunker:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-bunker:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-casualmente {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-casualmente:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: inset;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-casualmente:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-subject {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-subject:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-subject:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-dream {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-dream:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-dream:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-voyage {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-voyage:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-voyage:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-voyage1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+  background-color: #150501;
+}
+.the-trimba-voyage1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-voyage1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-rauw3 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-linkdn {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-linkdn:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-linkdn:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-bandcamp {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-bandcamp:hover {
+  width: 100%;
+  height: 100%;
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-bandcamp:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-twitter2 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-twitter2:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter2:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-twitter3 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  margin-top: 10%;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 10%;
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: 5%;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter3:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-twitter3:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.the-trimba-text17 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.the-trimba-text17:hover {
+  text-decoration: underline none;
+}
+.the-trimba-rectangle91 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.the-trimba-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle71 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle72 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle73 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle74 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle75 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-rectangle76 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-description {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-y: scroll;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.the-trimba-rectangle92 {
+  width: 100%;
+  height: 88px;
+  opacity: 0.00;
+}
+.the-trimba-container4 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.the-trimba-text18 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-trimba-text19 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 64px;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.the-trimba-image5481 {
+  width: 75%;
+  height: auto;
+}
+.the-trimba-text20 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 22px;
+  font-style: Bold;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  margin-left: 0%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  margin-bottom: 5%;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.the-trimba-twitter4 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+  background-color: #150501;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.the-trimba-container5 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.the-trimba-text21 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  border-radius: var(--dl-radius-radius-radius2);
+  padding-right: 10%;
+  padding-bottom: 10%;
+  background-color: rgb(21, 5, 1);
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+.the-trimba-text23 {
+  text-decoration: none;
+}
+.the-trimba-text24 {
+  text-decoration: none;
+}
+.the-trimba-text25 {
+  text-decoration: none;
+}
+.the-trimba-text26 {
+  text-decoration: none;
+}
+.the-trimba-text27 {
+  text-decoration: none;
+}
+.the-trimba-text28 {
+  text-decoration: none;
+}
+.the-trimba-text29 {
+  text-decoration: none;
+}
+.the-trimba-text31 {
+  text-decoration: none;
+}
+.the-trimba-text32 {
+  text-decoration: none;
+}
+.the-trimba-text33 {
+  text-decoration: none;
+}
+.the-trimba-text34 {
+  text-decoration: none;
+}
+.the-trimba-text35 {
+  text-decoration: none;
+}
+.the-trimba-text36 {
+  text-decoration: none;
+}
+.the-trimba-text37 {
+  text-decoration: none;
+}
+.the-trimba-text39 {
+  text-decoration: none;
+}
+.the-trimba-text40 {
+  text-decoration: none;
+}
+.the-trimba-text41 {
+  text-decoration: none;
+}
+.the-trimba-text42 {
+  text-decoration: none;
+}
+.the-trimba-text43 {
+  text-decoration: none;
+}
+.the-trimba-text44 {
+  text-decoration: none;
+}
+.the-trimba-rectangle93 {
+  width: 100%;
+  height: 64px;
+  opacity: 0.00;
+}
+.the-trimba-rectangle94 {
+  width: 100%;
+  height: 106px;
+  opacity: 0.00;
+}
+.the-trimba-text45 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: right;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.the-trimba-text45:hover {
+  text-decoration: underline none;
+}
+.the-trimba-rectangle95 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.the-trimba-rectangle77 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.the-trimba-dondo {
+  width: 55%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.the-trimba-text46 {
+  top: -22px;
+  left: 55px;
+  color: rgba(224, 66, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-trimba-rectangle10 {
+  width: 100%;
+  height: 144px;
+  opacity: 0.00;
+}
+.the-trimba-container6 {
+  width: 81%;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  margin-left: 5%;
+  margin-right: 10%;
+  flex-direction: column;
+}
+.the-trimba-text48 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  padding: 15%;
+  font-size: 24px;
+  align-self: center;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.the-trimba-frame373 {
+  width: 100%;
+  height: 33px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.the-trimba-text49 {
+  top: 9px;
+  left: var(--dl-space-space-twounits);
+  color: rgb(224, 66, 23);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-trimba-text50 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: right;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.the-trimba-text50:hover {
+  text-decoration: underline none;
+}
+.the-trimba-rectangle96 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.the-trimba-text51 {
+  top: -14px;
+  left: 1px;
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  position: absolute;
+  font-size: 58px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.the-trimba-text52 {
+  top: 0px;
+  color: rgb(242, 109, 31);
+  right: 0px;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  font-size: 54px;
+  align-self: flex-end;
+  font-style: Black;
+  margin-top: -14px;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.the-trimba-link {
+  display: contents;
+}
+.the-trimba-exclude {
+  width: 160px;
+  height: 152px;
+  display: none;
+  position: fixed;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.the-trimba-lottie-node1 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 7%;
+  position: fixed;
+  mix-blend-mode: color-dodge;
+  pointer-events: none;
+}
+.the-trimba-lottie-node2 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 30%;
+  position: fixed;
+  align-content: flex-end;
+  animation-name: none;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+@media(max-width: 991px) {
+  .the-trimba-container {
+    flex-direction: row;
+  }
+  .the-trimba-nav {
+    width: 45%;
+  }
+  .the-trimba-frame361 {
+    width: 100%;
+  }
+  .the-trimba-lottie-node {
+    width: 162px;
+    margin-right: 0px;
+  }
+  .the-trimba-text {
+    margin-bottom: 10%;
+  }
+  .the-trimba-text01 {
+    display: flex;
+    align-self: center;
+    margin-top: 10%;
+    margin-bottom: 0%;
+    justify-content: center;
+  }
+  .the-trimba-text02 {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+  }
+  .the-trimba-image548 {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+  }
+  .the-trimba-text03 {
+    color: rgb(224, 66, 23);
+    display: flex;
+    font-size: 22px;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 1px;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .the-trimba-twitter {
+    display: flex;
+    align-self: center;
+    padding-top: 1%;
+    margin-bottom: 5%;
+    padding-bottom: 1%;
+    justify-content: center;
+  }
+  .the-trimba-text04 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-direction: column;
+    padding-bottom: 10%;
+    background-color: rgb(12, 3, 0);
+  }
+  .the-trimba-text05 {
+    text-decoration: inherit;
+  }
+  .the-trimba-text06 {
+    text-decoration: none;
+  }
+  .the-trimba-text07 {
+    text-decoration: none;
+  }
+  .the-trimba-text08 {
+    text-decoration: none;
+  }
+  .the-trimba-text09 {
+    text-decoration: inherit;
+  }
+  .the-trimba-text10 {
+    text-decoration: none;
+  }
+  .the-trimba-text11 {
+    text-decoration: none;
+  }
+  .the-trimba-text12 {
+    text-decoration: none;
+  }
+  .the-trimba-text13 {
+    text-decoration: inherit;
+  }
+  .the-trimba-text14 {
+    text-decoration: none;
+  }
+  .the-trimba-text15 {
+    text-decoration: none;
+  }
+  .the-trimba-text16 {
+    text-decoration: none;
+  }
+  .the-trimba-twitter1 {
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .the-trimba-container2 {
+    display: flex;
+  }
+  .the-trimba-rectangle9 {
+    height: 32px;
+  }
+  .the-trimba-container3 {
+    margin-top: 0px;
+  }
+  .the-trimba-rauw3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .the-trimba-twitter3 {
+    margin-top: 5%;
+    padding-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+  }
+  .the-trimba-text17 {
+    text-align: left;
+  }
+  .the-trimba-description {
+    display: none;
+  }
+  .the-trimba-text20 {
+    color: rgb(224, 66, 23);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-decoration: none;
+  }
+  .the-trimba-twitter4 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+  .the-trimba-text21 {
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .the-trimba-rectangle93 {
+    height: var(--dl-size-size-xsmall);
+  }
+  .the-trimba-text45 {
+    text-align: left;
+  }
+  .the-trimba-dondo {
+    width: 55%;
+  }
+  .the-trimba-text48 {
+    font-size: 16px;
+  }
+  .the-trimba-frame373 {
+    margin-bottom: 10%;
+  }
+  .the-trimba-text50 {
+    text-align: right;
+  }
+  .the-trimba-text52 {
+    font-size: 64px;
+  }
+}
+@media(max-width: 479px) {
+  .the-trimba-container {
+    overflow-y: scroll;
+    flex-direction: column;
+  }
+  .the-trimba-nav {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .the-trimba-frame361 {
+    width: auto;
+  }
+  .the-trimba-lottie-node {
+    width: 162px;
+  }
+  .the-trimba-text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .the-trimba-image548 {
+    width: 75%;
+  }
+  .the-trimba-text03 {
+    text-align: left;
+  }
+  .the-trimba-twitter {
+    color: rgb(242, 109, 31);
+    height: auto;
+    font-size: 14px;
+    align-self: flex-start;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 0%;
+    margin-bottom: 10%;
+    padding-bottom: 0%;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .the-trimba-text04 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(12, 3, 0);
+  }
+  .the-trimba-text05 {
+    text-decoration: underline;
+  }
+  .the-trimba-text09 {
+    text-decoration: underline;
+  }
+  .the-trimba-text13 {
+    text-decoration: underline;
+  }
+  .the-trimba-twitter1 {
+    color: rgb(242, 109, 31);
+    height: auto;
+    font-size: 14px;
+    align-self: flex-start;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 0%;
+    margin-bottom: 10%;
+    padding-bottom: 0%;
+    text-decoration: none;
+  }
+  .the-trimba-rauw {
+    font-size: 32px;
+  }
+  .the-trimba-rauw1 {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-rauw2 {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-bunker {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-casualmente {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-subject {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-dream {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-voyage {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-voyage1 {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-rauw3 {
+    font-size: 32px;
+  }
+  .the-trimba-linkdn {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-bandcamp {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-twitter2 {
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .the-trimba-twitter3 {
+    color: rgb(242, 109, 31);
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5%;
+    margin-bottom: 10%;
+    padding-bottom: 10%;
+    text-decoration: none;
+  }
+  .the-trimba-twitter4 {
+    color: rgb(242, 109, 31);
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    align-self: flex-start;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5%;
+    margin-bottom: 10%;
+    padding-bottom: 10%;
+    text-decoration: none;
+  }
+  .the-trimba-rectangle93 {
+    height: var(--dl-size-size-xsmall);
+  }
+  .the-trimba-dondo {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .the-trimba-rectangle96 {
+    height: var(--dl-size-size-xlarge);
+  }
+  .the-trimba-text51 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    font-size: 58px;
+    font-family: Inter;
+    font-weight: 900;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .the-trimba-text52 {
+    display: none;
+  }
+  .the-trimba-exclude {
+    right: 37px;
+    width: auto;
+    bottom: 51px;
+    height: 10%;
+    display: flex;
+    position: absolute;
+  }
+}

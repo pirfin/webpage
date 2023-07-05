@@ -1,0 +1,3236 @@
+.dondo-branding-container {
+  width: 100%;
+  height: var(--dl-size-size-xxlarge);
+  display: flex;
+  overflow: hidden;
+  background: Black (Gray);
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-image: linear-gradient(0deg, rgb(19, 5, 0) 1.00%,rgb(0, 0, 0) 27.00%);
+}
+.dondo-branding-nav {
+  width: 15%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: inherit;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.dondo-branding-frame361 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-navlink {
+  display: contents;
+}
+.dondo-branding-container01 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  text-decoration: none;
+}
+.dondo-branding-lottie-node {
+  width: 75%;
+  height: 78px;
+}
+.dondo-branding-text {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 30%;
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 0px;
+  text-decoration: none;
+}
+.dondo-branding-text:hover {
+  text-decoration: underline;
+}
+.dondo-branding-text:active {
+  text-decoration: underline;
+}
+.dondo-branding-text01 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 58px;
+  font-style: Regular;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.dondo-branding-text02 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  display: none;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondo-branding-dondo2 {
+  width: 50%;
+  height: auto;
+  display: none;
+}
+.dondo-branding-text03 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  padding-top: 7%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  letter-spacing: 1px;
+  padding-bottom: 7%;
+  text-decoration: none;
+}
+.dondo-branding-container02 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-text04 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 10%;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  margin-right: 10%;
+  padding-left: 5%;
+  margin-bottom: 5%;
+  padding-right: 30%;
+  padding-bottom: 10%;
+  background-color: rgb(12, 3, 0);
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-text08 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: none;
+}
+.dondo-branding-text09 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondo-branding-text10 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondo-branding-text11 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  display: none;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: underline;
+}
+.dondo-branding-container03 {
+  width: 100%;
+  display: none;
+  align-items: center;
+  flex-direction: column;
+}
+.dondo-branding-rectangle9 {
+  width: 100%;
+  height: 64px;
+  opacity: 0.00;
+}
+.dondo-branding-container04 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 0px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-container04:hover {
+  position: relative;
+}
+.dondo-branding-rauw {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-rauw1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 20%;
+  padding-bottom: 5%;
+  text-decoration: none;
+  background-color: #150501;
+}
+.dondo-branding-rauw1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-rauw1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-rauw2 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-rauw2:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-rauw2:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-bunker {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-bunker:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-bunker:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-casualmente {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-casualmente:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: inset;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-casualmente:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-subject {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-subject:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-subject:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-dream {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-dream:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-dream:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-voyage {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-voyage:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-voyage:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-voyage1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-voyage1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-voyage1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-rauw3 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  padding-top: 0px;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+  text-decoration: none;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-linkdn {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-linkdn:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-linkdn:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-bandcamp {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: #BF521D;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-bandcamp:hover {
+  width: 100%;
+  height: 100%;
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: solid;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-bandcamp:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-twitter {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-twitter:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-twitter:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-twitter1 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: 100%;
+  font-size: 12px;
+  font-style: Regular;
+  margin-top: 10%;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 5%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(242, 109, 31);
+  border-style: solid;
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-twounits);
+  margin-bottom: 10%;
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: 5%;
+  text-decoration: none;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-twitter1:hover {
+  padding-top: 14px;
+  border-color: rgb(224, 66, 23);
+  border-style: ridge;
+  border-width: 1px;
+  padding-left: 46px;
+  padding-right: 46px;
+  padding-bottom: 14px;
+  border-top-width: 1px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+}
+.dondo-branding-twitter1:active {
+  background: #241005;
+  padding-left: var(--dl-space-space-threeunits);
+}
+.dondo-branding-text12 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.dondo-branding-text12:hover {
+  text-decoration: underline none;
+}
+.dondo-branding-rectangle91 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondo-branding-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle71 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle72 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle73 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle74 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle75 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-rectangle76 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-description {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-y: scroll;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dondo-branding-rectangle92 {
+  width: 100%;
+  height: 88px;
+  opacity: 0.00;
+}
+.dondo-branding-container05 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondo-branding-text13 {
+  color: rgb(242, 109, 31);
+  height: auto;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondo-branding-text14 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Pinyon Script;
+  font-weight: 400;
+  line-height: 75%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-dondo21 {
+  width: 50%;
+  height: auto;
+  margin-bottom: 5%;
+}
+.dondo-branding-text15 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 22px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 1;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 5%;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.dondo-branding-container06 {
+  width: 90%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondo-branding-text16 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 10%;
+  padding-top: 10%;
+  border-color: rgb(242, 109, 31);
+  border-width: 1px;
+  font-stretch: normal;
+  margin-right: 10%;
+  padding-left: 5%;
+  border-radius: var(--dl-radius-radius-radius2);
+  margin-bottom: 5%;
+  padding-right: 10%;
+  padding-bottom: 10%;
+  text-decoration: none;
+  background-color: rgb(12, 3, 0);
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+.dondo-branding-text24 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  text-decoration: none;
+}
+.dondo-branding-text24:hover {
+  text-decoration: underline;
+}
+.dondo-branding-container07 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.dondo-branding-text25 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  border-color: rgb(224, 66, 23);
+  border-width: 1px;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+  background-color: #150501;
+}
+.dondo-branding-text25:hover {
+  text-decoration: underline;
+}
+.dondo-branding-text26 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+.dondo-branding-text26:hover {
+  text-decoration: underline;
+}
+.dondo-branding-text27 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  text-align: left;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 2%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 2%;
+  padding-bottom: 2%;
+}
+.dondo-branding-text27:hover {
+  text-decoration: underline;
+}
+.dondo-branding-rectangle93 {
+  width: 100%;
+  height: 306px;
+  opacity: 0.00;
+}
+.dondo-branding-text28 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: right;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.dondo-branding-text28:hover {
+  text-decoration: underline none;
+}
+.dondo-branding-rectangle94 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondo-branding-rectangle77 {
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 32px;
+  opacity: 0.00;
+  position: absolute;
+}
+.dondo-branding-dondo {
+  width: 55%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.dondo-branding-text29 {
+  top: -22px;
+  left: 55px;
+  color: rgba(224, 66, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondo-branding-rectangle10 {
+  width: 100%;
+  height: 144px;
+  opacity: 0.00;
+}
+.dondo-branding-container08 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-container09 {
+  width: 81%;
+  height: var(--dl-size-size-xxlarge);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  padding-top: var(--dl-space-space-fourunits);
+  margin-right: 15%;
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-fourunits);
+  justify-content: center;
+  background-color: #FCFBF0;
+}
+.dondo-branding-group31211 {
+  width: auto;
+  height: 30%;
+}
+.dondo-branding-text31 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container10 {
+  width: 81%;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  padding-top: 0px;
+  margin-right: 15%;
+  flex-direction: row;
+  padding-bottom: 0px;
+  justify-content: center;
+}
+.dondo-branding-controllersocials3 {
+  width: 30%;
+  height: auto;
+  margin-right: 20%;
+}
+.dondo-branding-controllersocials31 {
+  width: 30%;
+  height: auto;
+  align-self: center;
+}
+.dondo-branding-text32 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container11 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-container12 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-container13 {
+  flex: 0 0 auto;
+  width: 81%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
+  align-items: flex-start;
+  margin-left: 5%;
+  margin-right: 10%;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.dondo-branding-container14 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.dondo-branding-container15 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-text33 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 14px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 30%;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  padding-bottom: 30%;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+.dondo-branding-text34 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 0px;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container16 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+.dondo-branding-container16:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-image316 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text35 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container17 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container17:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-sad2 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text36 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container18 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container18:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-sad21 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text37 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container19 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container19:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-sad22 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text38 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container20 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container20:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-octavioemptyprofile1 {
+  width: 100%;
+  height: auto;
+  margin-top: 15%;
+  margin-bottom: 15%;
+}
+.dondo-branding-text39 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-videogames1 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text40 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container21 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #000000;
+}
+.dondo-branding-container21:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 20;
+  border-top-right-radius: 20;
+  border-bottom-left-radius: 20;
+  border-bottom-right-radius: 20;
+}
+.dondo-branding-image312 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text41 {
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  font-size: 12px;
+  align-self: center;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container22 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.dondo-branding-container23 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container24 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  transition: 0.3s;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-container24:hover {
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: 5;
+  border-top-right-radius: 5;
+  border-bottom-left-radius: 5;
+  border-bottom-right-radius: 5;
+}
+.dondo-branding-sdfsdfsd1 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text42 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container25 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-sports1 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text43 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container26 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #f0f6f0;
+}
+.dondo-branding-image315 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text44 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container27 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-image3151 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text47 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container28 {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-image3152 {
+  width: 100%;
+  height: 100%;
+}
+.dondo-branding-text51 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container29 {
+  width: 90%;
+  height: 100%;
+  display: flex;
+  position: initial;
+  align-self: flex-end;
+  align-items: center;
+  padding-top: 50%;
+  flex-direction: column;
+  padding-bottom: 50%;
+  justify-content: center;
+}
+.dondo-branding-truck2 {
+  width: 10%;
+  height: auto;
+  position: absolute;
+  transition: 0.3s;
+}
+.dondo-branding-truck2:hover {
+  width: 30%;
+}
+.dondo-branding-text52 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container30 {
+  width: 90%;
+  height: auto;
+  display: flex;
+  align-self: flex-end;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.dondo-branding-frame25041 {
+  width: 100%;
+  height: auto;
+}
+.dondo-branding-text53 {
+  color: rgb(242, 109, 31);
+  width: 90%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-end;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container31 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.dondo-branding-container32 {
+  width: 81%;
+  height: 80%;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  margin-right: 15%;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-container33 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding-top: 30%;
+  flex-direction: row;
+  padding-bottom: 30%;
+  justify-content: center;
+}
+.dondo-branding-container34 {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-firee3 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-firee3:hover {
+  width: 30%;
+}
+.dondo-branding-group3103 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-group3103:hover {
+  width: 30%;
+}
+.dondo-branding-group3101 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-group3101:hover {
+  width: 30%;
+}
+.dondo-branding-group3104 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-group3104:hover {
+  width: 30%;
+}
+.dondo-branding-text54 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container35 {
+  width: 81%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-model1 {
+  width: 30%;
+  height: auto;
+  margin-right: 5%;
+}
+.dondo-branding-shoeonly1 {
+  width: 30%;
+  height: auto;
+  margin-right: 5%;
+}
+.dondo-branding-model11 {
+  width: 30%;
+  height: auto;
+  margin-right: 0%;
+}
+.dondo-branding-text57 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-text58 {
+  width: 81%;
+  height: auto;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+}
+.dondo-branding-container36 {
+  width: 81%;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  padding-top: 0px;
+  margin-right: 15%;
+  flex-direction: row;
+  padding-bottom: 0px;
+  justify-content: center;
+}
+.dondo-branding-container37 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  padding-top: 30%;
+  flex-direction: row;
+  padding-bottom: 30%;
+  justify-content: center;
+}
+.dondo-branding-container38 {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-image3121 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+  margin-right: 30%;
+}
+.dondo-branding-image3121:hover {
+  width: 30%;
+}
+.dondo-branding-truck21 {
+  width: 10%;
+  height: auto;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-truck21:hover {
+  width: 30%;
+}
+.dondo-branding-text61 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container39 {
+  width: 81%;
+  height: 720px;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  padding-top: 0px;
+  margin-right: 15%;
+  flex-direction: row;
+  padding-bottom: 0px;
+  justify-content: center;
+}
+.dondo-branding-dfsdsf1 {
+  width: 10%;
+  height: auto;
+  position: static;
+  align-self: center;
+  transition: 0.3s;
+  margin-right: 30%;
+}
+.dondo-branding-dfsdsf1:hover {
+  width: 30%;
+  position: static;
+  margin-right: 30%;
+}
+.dondo-branding-musical-instruments1 {
+  width: 10%;
+  height: auto;
+  position: static;
+  align-self: center;
+  transition: 0.3s;
+}
+.dondo-branding-musical-instruments1:hover {
+  width: 30%;
+  position: static;
+}
+.dondo-branding-text64 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-text65 {
+  top: -14px;
+  left: 1px;
+  color: rgb(242, 109, 31);
+  width: 100%;
+  height: auto;
+  display: none;
+  position: absolute;
+  font-size: 58px;
+  font-style: Black;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.dondo-branding-text66 {
+  top: 0px;
+  color: rgb(242, 109, 31);
+  right: 0px;
+  width: 55%;
+  height: auto;
+  position: fixed;
+  font-size: 64px;
+  align-self: flex-end;
+  font-style: Black;
+  margin-top: -16px;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 900;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.dondo-branding-container40 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-lottie-node1 {
+  width: 100%;
+  height: 300px;
+  margin-right: -1px;
+}
+.dondo-branding-lottie-node2 {
+  width: 100%;
+  height: 300px;
+}
+.dondo-branding-text67 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container41 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.dondo-branding-lottie-node3 {
+  width: auto;
+  height: 653px;
+}
+.dondo-branding-text70 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: auto;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-right: 5%;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-container42 {
+  width: 81%;
+  height: auto;
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  margin-left: 5%;
+  padding-top: var(--dl-space-space-halfunit);
+  margin-right: 15%;
+  flex-direction: row;
+  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
+  background-color: #FCFBF0;
+}
+.dondo-branding-group312111 {
+  width: auto;
+  height: 90%;
+}
+.dondo-branding-text73 {
+  color: rgb(242, 109, 31);
+  width: 81%;
+  height: 100%;
+  font-size: 12px;
+  align-self: flex-start;
+  font-style: Regular;
+  margin-top: 5%;
+  text-align: left;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 5%;
+  font-stretch: normal;
+  margin-bottom: 5%;
+  text-decoration: none;
+}
+.dondo-branding-text76 {
+  color: rgb(224, 66, 23);
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+  align-self: flex-end;
+  font-style: Regular;
+  text-align: right;
+  transition: 0.3s;
+  font-family: Source Code Pro;
+  font-weight: 400;
+  line-height: normal;
+  text-shadow:  0 0 3px #590000, 0 0 3px #590000, 0 0 3px #590000, 0 0 1px #590000, 0 0 3px #590000;
+  font-stretch: normal;
+  padding-left: 5%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+.dondo-branding-text76:hover {
+  text-decoration: underline none;
+}
+.dondo-branding-rectangle95 {
+  width: 100%;
+  height: 46px;
+  opacity: 0.00;
+}
+.dondo-branding-link {
+  display: contents;
+}
+.dondo-branding-exclude {
+  width: 160px;
+  height: 152px;
+  display: none;
+  position: fixed;
+  mix-blend-mode: difference;
+  text-decoration: none;
+}
+.dondo-branding-lottie-node4 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 7%;
+  position: fixed;
+  mix-blend-mode: color-dodge;
+  pointer-events: none;
+}
+.dondo-branding-lottie-node5 {
+  top: NaNpx;
+  width: 1263px;
+  height: 1263px;
+  display: none;
+  opacity: 30%;
+  position: fixed;
+  align-content: flex-end;
+  animation-name: none;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+@media(max-width: 991px) {
+  .dondo-branding-container {
+    flex-direction: row;
+  }
+  .dondo-branding-nav {
+    width: 45%;
+  }
+  .dondo-branding-frame361 {
+    width: 100%;
+  }
+  .dondo-branding-lottie-node {
+    width: 162px;
+    margin-right: 0px;
+  }
+  .dondo-branding-text {
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text01 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    font-size: 58px;
+    margin-top: 10%;
+    font-family: Pinyon Script;
+    font-weight: 400;
+    line-height: 75%;
+    margin-bottom: 0px;
+    justify-content: center;
+    text-decoration: none;
+  }
+  .dondo-branding-text02 {
+    display: flex;
+    align-self: center;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-dondo2 {
+    width: 75%;
+    display: flex;
+    align-self: center;
+  }
+  .dondo-branding-text03 {
+    display: flex;
+  }
+  .dondo-branding-text04 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    flex-direction: column;
+    padding-bottom: 10%;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondo-branding-text08 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-text09 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    border-color: rgb(224, 66, 23);
+    border-width: 1px;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+    background-color: #150501;
+  }
+  .dondo-branding-text10 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-text11 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    display: flex;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-container03 {
+    display: flex;
+  }
+  .dondo-branding-rectangle9 {
+    height: 32px;
+  }
+  .dondo-branding-container04 {
+    margin-top: 0px;
+  }
+  .dondo-branding-rauw3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .dondo-branding-twitter1 {
+    align-self: center;
+    margin-top: 5%;
+    padding-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 5%;
+  }
+  .dondo-branding-text12 {
+    text-align: left;
+  }
+  .dondo-branding-rectangle91 {
+    height: var(--dl-size-size-small);
+  }
+  .dondo-branding-description {
+    display: none;
+  }
+  .dondo-branding-text14 {
+    color: rgb(242, 109, 31);
+    font-size: 58px;
+    font-family: Pinyon Script;
+    font-weight: 400;
+    line-height: 75%;
+    text-decoration: none;
+  }
+  .dondo-branding-text15 {
+    color: rgb(191, 72, 30);
+    font-size: 22px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-decoration: none;
+  }
+  .dondo-branding-text16 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+    text-decoration: none;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondo-branding-text24 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-text25 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-text26 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-text27 {
+    color: rgb(217, 125, 22);
+    height: auto;
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    text-decoration: none;
+  }
+  .dondo-branding-dondo {
+    width: 55%;
+  }
+  .dondo-branding-container09 {
+    width: 90%;
+    height: var(--dl-size-size-large);
+  }
+  .dondo-branding-group31211 {
+    width: 30%;
+    height: auto;
+  }
+  .dondo-branding-text31 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container10 {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 15%;
+  }
+  .dondo-branding-controllersocials3 {
+    width: 40%;
+    margin-right: 5%;
+  }
+  .dondo-branding-controllersocials31 {
+    width: 40%;
+  }
+  .dondo-branding-text32 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container11 {
+    width: 90%;
+    margin-left: 5%;
+  }
+  .dondo-branding-container13 {
+    width: 100%;
+    align-self: flex-start;
+    align-items: flex-start;
+    margin-left: 0%;
+    margin-right: 0%;
+    flex-direction: column;
+  }
+  .dondo-branding-container15 {
+    width: 100%;
+    align-items: flex-start;
+  }
+  .dondo-branding-text33 {
+    font-size: 16px;
+  }
+  .dondo-branding-text34 {
+    font-family: Source Code Pro;
+    font-weight: 400;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container16 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-image316 {
+    width: 100%;
+  }
+  .dondo-branding-text35 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container17 {
+    height: auto;
+  }
+  .dondo-branding-sad2 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text36 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container18 {
+    height: auto;
+  }
+  .dondo-branding-sad21 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text37 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container19 {
+    height: auto;
+  }
+  .dondo-branding-sad22 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text38 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container20 {
+    width: auto;
+    height: auto;
+  }
+  .dondo-branding-octavioemptyprofile1 {
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+  .dondo-branding-text39 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text40 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container21 {
+    height: auto;
+  }
+  .dondo-branding-text41 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container23 {
+    width: 100%;
+    align-self: flex-start;
+  }
+  .dondo-branding-container24 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-sdfsdfsd1 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text42 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container25 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text43 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container26 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text44 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text45 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-text46 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-container27 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text47 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text48 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-text49 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-text50 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-container28 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text51 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container29 {
+    width: 100%;
+  }
+  .dondo-branding-text52 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container30 {
+    width: 100%;
+  }
+  .dondo-branding-frame25041 {
+    align-self: flex-start;
+  }
+  .dondo-branding-text53 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container32 {
+    width: 90%;
+  }
+  .dondo-branding-firee3 {
+    width: 15%;
+  }
+  .dondo-branding-group3103 {
+    width: 15%;
+  }
+  .dondo-branding-group3101 {
+    width: 15%;
+  }
+  .dondo-branding-group3104 {
+    width: 15%;
+  }
+  .dondo-branding-text54 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container35 {
+    width: 90%;
+    flex-direction: column;
+  }
+  .dondo-branding-model1 {
+    width: 100%;
+    margin-right: 0%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-shoeonly1 {
+    width: 100%;
+    margin-right: 0%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-model11 {
+    width: 100%;
+    align-self: flex-start;
+  }
+  .dondo-branding-text57 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text58 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container36 {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 15%;
+  }
+  .dondo-branding-truck21 {
+    width: 15%;
+  }
+  .dondo-branding-text61 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container39 {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 15%;
+  }
+  .dondo-branding-dfsdsf1 {
+    padding-top: 30%;
+    padding-bottom: 30%;
+  }
+  .dondo-branding-musical-instruments1 {
+    margin-top: 30%;
+    margin-bottom: 30%;
+  }
+  .dondo-branding-text64 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-lottie-node1 {
+    width: 100%;
+    height: auto;
+    margin-bottom: 0%;
+  }
+  .dondo-branding-lottie-node2 {
+    width: 100%;
+    height: 100%;
+  }
+  .dondo-branding-text67 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+    padding-bottom: 0px;
+  }
+  .dondo-branding-text68 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-text69 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-container41 {
+    width: 100%;
+  }
+  .dondo-branding-lottie-node3 {
+    width: auto;
+    height: 605px;
+    margin-bottom: 0px;
+  }
+  .dondo-branding-text70 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-bottom: 10%;
+    padding-bottom: 0px;
+  }
+  .dondo-branding-text72 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-container42 {
+    width: 90%;
+    height: auto;
+    background-color: transparent;
+  }
+  .dondo-branding-group312111 {
+    width: 100%;
+    height: auto;
+  }
+  .dondo-branding-text73 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    padding-bottom: 0px;
+  }
+  .dondo-branding-text75 {
+    height: auto;
+    padding-top: var(--dl-space-space-halfunit);
+    padding-left: var(--dl-space-space-halfunit);
+    padding-right: var(--dl-space-space-halfunit);
+    padding-bottom: var(--dl-space-space-halfunit);
+  }
+  .dondo-branding-exclude {
+    display: none;
+  }
+}
+@media(max-width: 479px) {
+  .dondo-branding-container {
+    overflow-y: scroll;
+    flex-direction: column;
+  }
+  .dondo-branding-nav {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .dondo-branding-frame361 {
+    width: 100%;
+  }
+  .dondo-branding-lottie-node {
+    width: 162px;
+  }
+  .dondo-branding-text {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .dondo-branding-dondo2 {
+    width: 50%;
+  }
+  .dondo-branding-text03 {
+    text-align: left;
+  }
+  .dondo-branding-text04 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    background-color: rgb(12, 3, 0);
+  }
+  .dondo-branding-text08 {
+    color: rgb(217, 125, 22);
+  }
+  .dondo-branding-text09 {
+    color: rgb(217, 125, 22);
+    border-color: rgb(224, 66, 23);
+    border-width: 1px;
+    background-color: #150501;
+  }
+  .dondo-branding-text10 {
+    color: rgb(217, 125, 22);
+  }
+  .dondo-branding-text11 {
+    color: rgb(217, 125, 22);
+  }
+  .dondo-branding-rauw {
+    font-size: 32px;
+  }
+  .dondo-branding-rauw1 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-rauw2 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-bunker {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-casualmente {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-subject {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-dream {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-voyage {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-voyage1 {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-rauw3 {
+    font-size: 32px;
+  }
+  .dondo-branding-linkdn {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-bandcamp {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-twitter {
+    height: 44px;
+    font-size: 14px;
+    padding-top: 3.3%;
+    padding-bottom: 3.3%;
+  }
+  .dondo-branding-twitter1 {
+    color: rgb(242, 109, 31);
+    height: var(--dl-size-size-small);
+    font-size: 14px;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 5%;
+    margin-bottom: 10%;
+    padding-bottom: 10%;
+    text-decoration: none;
+  }
+  .dondo-branding-text24 {
+    color: rgb(224, 66, 23);
+  }
+  .dondo-branding-text25 {
+    color: rgb(224, 66, 23);
+  }
+  .dondo-branding-text26 {
+    color: rgb(224, 66, 23);
+  }
+  .dondo-branding-text27 {
+    color: rgb(224, 66, 23);
+  }
+  .dondo-branding-dondo {
+    width: 100%;
+    height: auto;
+    overflow-y: hidden;
+  }
+  .dondo-branding-container09 {
+    width: 90%;
+    height: var(--dl-size-size-xlarge);
+  }
+  .dondo-branding-text31 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 5%;
+  }
+  .dondo-branding-container10 {
+    width: 90%;
+    height: auto;
+  }
+  .dondo-branding-controllersocials3 {
+    width: 42%;
+    margin-right: 5%;
+  }
+  .dondo-branding-controllersocials31 {
+    width: 40%;
+  }
+  .dondo-branding-text32 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 5%;
+    text-decoration: none;
+  }
+  .dondo-branding-container11 {
+    width: 90%;
+  }
+  .dondo-branding-container13 {
+    margin-left: 0%;
+  }
+  .dondo-branding-container14 {
+    align-self: flex-start;
+    justify-content: flex-start;
+  }
+  .dondo-branding-text33 {
+    align-self: flex-start;
+    margin-bottom: 5%;
+  }
+  .dondo-branding-text34 {
+    color: rgb(242, 109, 31);
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container16 {
+    height: auto;
+  }
+  .dondo-branding-text35 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container17 {
+    height: auto;
+  }
+  .dondo-branding-text36 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container18 {
+    height: auto;
+  }
+  .dondo-branding-text37 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container19 {
+    height: auto;
+  }
+  .dondo-branding-text38 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container20 {
+    height: auto;
+  }
+  .dondo-branding-octavioemptyprofile1 {
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .dondo-branding-text39 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text40 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container21 {
+    height: auto;
+  }
+  .dondo-branding-text41 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container23 {
+    height: auto;
+  }
+  .dondo-branding-container24 {
+    height: auto;
+  }
+  .dondo-branding-text42 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container25 {
+    height: auto;
+  }
+  .dondo-branding-text43 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container26 {
+    height: auto;
+  }
+  .dondo-branding-text44 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container27 {
+    height: auto;
+  }
+  .dondo-branding-text47 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container28 {
+    height: auto;
+  }
+  .dondo-branding-text51 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text52 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text53 {
+    color: rgb(242, 109, 31);
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container32 {
+    width: 90%;
+  }
+  .dondo-branding-text54 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-text57 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    text-align: left;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10%;
+    text-decoration: none;
+  }
+  .dondo-branding-text58 {
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container36 {
+    width: 90%;
+    height: auto;
+  }
+  .dondo-branding-truck21 {
+    width: 15%;
+  }
+  .dondo-branding-text61 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container39 {
+    width: 90%;
+    height: auto;
+  }
+  .dondo-branding-dfsdsf1 {
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+  .dondo-branding-text64 {
+    color: rgb(242, 109, 31);
+    font-size: 12px;
+    text-align: left;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10%;
+    text-decoration: none;
+  }
+  .dondo-branding-text65 {
+    color: rgb(242, 109, 31);
+    display: flex;
+    font-size: 58px;
+    font-family: Inter;
+    font-weight: 900;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .dondo-branding-text66 {
+    display: none;
+  }
+  .dondo-branding-container40 {
+    width: 90%;
+    margin-left: 5%;
+    flex-direction: column;
+  }
+  .dondo-branding-lottie-node1 {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 5%;
+  }
+  .dondo-branding-lottie-node2 {
+    height: 100%;
+    margin-bottom: 0%;
+  }
+  .dondo-branding-text67 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container41 {
+    width: auto;
+    align-self: center;
+  }
+  .dondo-branding-lottie-node3 {
+    width: 100%;
+  }
+  .dondo-branding-text70 {
+    color: rgb(242, 109, 31);
+    width: 90%;
+    text-align: left;
+    margin-bottom: 10%;
+  }
+  .dondo-branding-container42 {
+    width: 90%;
+    height: auto;
+  }
+  .dondo-branding-text73 {
+    color: rgb(242, 109, 31);
+    width: 100%;
+    text-align: left;
+  }
+  .dondo-branding-text76 {
+    align-self: flex-end;
+    text-align: right;
+  }
+  .dondo-branding-rectangle95 {
+    height: var(--dl-size-size-xlarge);
+  }
+  .dondo-branding-exclude {
+    right: 37px;
+    width: auto;
+    bottom: 51px;
+    height: 10%;
+    display: flex;
+    position: absolute;
+  }
+}
